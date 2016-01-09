@@ -27,10 +27,11 @@ __Bold text with _ __
 
 Worked
 **Combining *italic text* with bold text**
+
 __Combining _italic text_ with bold text__
 
-Did not work?
 **Combining _italic text_ with bold text**
+
 __Combining *italic text* with bold text__
 
 - Unordered List
