@@ -21,11 +21,11 @@ many lines
 
 _Italic Text with underscore_
 
-__Bold Text with underscore__
+*Italic Text with stars*
 
 __Bold text with underscore__
 
-**Bold text with underscore**
+**Bold text with stars**
 
 **Combining *italic text* with bold text**
 
