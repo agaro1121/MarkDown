@@ -75,9 +75,11 @@ by 3 backticks
 val example = "language specific syntax highlighting-scala"
 ```
 
+
 ```java
-String example = "language specific syntax highlighting-scala"
+String example = "language specific syntax highlighting-java"
 ```
+
 
 ```python
 val example = "language specific syntax highlighting-python"
