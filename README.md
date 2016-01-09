@@ -68,3 +68,5 @@ by 3 backticks
 (random link)
 
 [Visit Google!](http://www.google.com)
+
+~~strike thhrough~~
