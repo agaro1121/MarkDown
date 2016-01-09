@@ -72,8 +72,18 @@ by 3 backticks
 ~~strike thhrough~~
 
 ```scala
-val example = "language specific syntax highlighting"
+val example = "language specific syntax highlighting-scala"
 ```
+
+```java
+String example = "language specific syntax highlighting-scala"
+```
+
+```python
+val example = "language specific syntax highlighting-python"
+```
+
+
 
 | table | header |
 | ----- | ------ |
