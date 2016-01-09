@@ -74,3 +74,8 @@ by 3 backticks
 ```scala
 val example = "language specific syntax highlighting"
 ```
+
+| table | header |
+| row   | column |
+| more  |  more  |
+| more  |  more  |
