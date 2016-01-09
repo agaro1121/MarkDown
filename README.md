@@ -80,3 +80,8 @@ val example = "language specific syntax highlighting"
 | row   | column |
 | more  |  more  |
 | more  |  more  |
+
+| Name | Description          |
+| ------------- | ----------- |
+| Help      | Display the help window.|
+| Close     | Closes a window     |
