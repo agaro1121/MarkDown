@@ -70,3 +70,7 @@ by 3 backticks
 [Visit Google!](http://www.google.com)
 
 ~~strike thhrough~~
+
+```scala
+val example = "language specific syntax highlighting"
+```
