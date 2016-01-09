@@ -20,9 +20,11 @@ span across
 many lines
 
 *Italic Text with * *
+
 **Bold Text with * **
 
 _Italic Text with _ _
+
 __Bold text with _ __
 
 **Combining *italic text* with bold text**
