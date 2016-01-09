@@ -25,8 +25,11 @@ many lines
 _Italic Text with _ _
 __Bold text with _ __
 
+Worked
 **Combining *italic text* with bold text**
 __Combining _italic text_ with bold text__
+
+Did not work?
 **Combining _italic text_ with bold text**
 __Combining *italic text* with bold text__
 
@@ -61,4 +64,5 @@ by 3 backticks
 ```
 
 (random link)
+
 [Visit Google!](http://www.google.com)
