@@ -23,9 +23,9 @@ _Italic Text with_
 
 __Bold Text with__
 
-_Italic Text with _ _
+_Italic Text with __
 
-__Bold text with _ __
+__Bold text with ___
 
 **Combining *italic text* with bold text**
 
