@@ -19,13 +19,13 @@ among other things
 span across
 many lines
 
-_Italic Text with_
+_Italic Text with underscore_
 
-__Bold Text with__
+__Bold Text with underscore__
 
-_Italic Text with __
+__Bold text with underscore__
 
-__Bold text with ___
+**Bold text with underscore**
 
 **Combining *italic text* with bold text**
 
