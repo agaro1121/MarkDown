@@ -85,3 +85,8 @@ val example = "language specific syntax highlighting"
 | ------------- | ----------- |
 | Help      | Display the help window.|
 | Close     | Closes a window     |
+
+[emoji!](http://www.emoji-cheat-sheet.com/)
+
+:bowtie:
+:blush:
