@@ -19,9 +19,9 @@ among other things
 span across
 many lines
 
-*Italic Text with * *
+_Italic Text with * _
 
-**Bold Text with * **
+__Bold Text with * __
 
 _Italic Text with _ _
 
